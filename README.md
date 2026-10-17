@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Based_in-Pune,_India-555?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=ANILKMEHER&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
-
 ---
 
 ## 👨‍💼 About Me
@@ -247,15 +246,6 @@ flowchart LR
 ## 💬 Ask Me About
 
 `SAP BTP` · `Clean Core` · `S/4HANA transformation` · `AI product strategy` · `RAG & agents` · `Prompt engineering` · `AI evals & governance` · `Product roadmapping` · `Enterprise architecture`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ANILKMEHER&show_icons=true&hide_border=true&theme=default"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANILKMEHER&layout=compact&hide_border=true"/>
-</p>
 
 ---
 
