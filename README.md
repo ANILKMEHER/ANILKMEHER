@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anil-kumar-meher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Based_in-Pune,_India-555?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=ANILKMEHER&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <img src="[https://komarev.com/ghpvc/?username=ANILKMEHER&label=Profile%20views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=ANILKMEHER&label=Profile%20views&color=0e75b6&style=for-the-badge)"/>
 </p>
 
 
